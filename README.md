@@ -21,7 +21,7 @@ Theme: Web Applications
 
 ## Submodules/Libraries
 ### Python
-+ botek -- Data visualization
++ bokeh -- Data visualization
 + pandas -- csv input
 + numpy -- number data science
 ### Go ?
